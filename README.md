@@ -1,3 +1,3 @@
 PomodoroApp
 
-#Live demo https://sonersimsekk.github.io/pomodoroapp.io/
+Published at https://quantzero.github.io/PomodoroApp/
