@@ -1,4 +1,4 @@
-PomodoroApp
+Fully working PomodoroApp. It has a built-in to do list and the background changes colors based on your state.
 
 Published at https://quantzero.github.io/PomodoroApp/
 
